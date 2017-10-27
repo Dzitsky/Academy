@@ -1,0 +1,8 @@
+C:\Users\User9\Desktop\Академия\Example\AdvertBoard\DataLayer.Repository\bin\Debug\DataAccessLayer.dll
+C:\Users\User9\Desktop\Академия\Example\AdvertBoard\DataLayer.Repository\bin\Debug\DataAccessLayer.pdb
+C:\Users\User9\Desktop\Академия\Example\AdvertBoard\DataLayer.Repository\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\User9\Desktop\Академия\Example\AdvertBoard\DataLayer.Repository\obj\Debug\DataAccessLayer.dll
+C:\Users\User9\Desktop\Академия\Example\AdvertBoard\DataLayer.Repository\obj\Debug\DataAccessLayer.pdb
+C:\Users\User9\Desktop\Академия\Example\AdvertBoard\DataLayer.Repository\bin\Debug\Castle.Core.dll
+C:\Users\User9\Desktop\Академия\Example\AdvertBoard\DataLayer.Repository\bin\Debug\Castle.Windsor.dll
+C:\Users\User9\Desktop\Академия\Example\AdvertBoard\DataLayer.Repository\bin\Debug\Castle.Windsor.xml
