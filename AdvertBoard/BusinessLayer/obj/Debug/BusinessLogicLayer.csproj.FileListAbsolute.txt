@@ -10,3 +10,15 @@ C:\Users\User9\Desktop\Академия\Example\AdvertBoard\BusinessLayer\obj\De
 C:\Users\User9\Desktop\Академия\Example\AdvertBoard\BusinessLayer\bin\Debug\Castle.Core.dll
 C:\Users\User9\Desktop\Академия\Example\AdvertBoard\BusinessLayer\bin\Debug\Castle.Windsor.dll
 C:\Users\User9\Desktop\Академия\Example\AdvertBoard\BusinessLayer\bin\Debug\Castle.Windsor.xml
+C:\Academy\AdvertBoard\BusinessLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Academy\AdvertBoard\BusinessLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Academy\AdvertBoard\BusinessLayer\bin\Debug\AutoMapper.dll
+C:\Academy\AdvertBoard\BusinessLayer\bin\Debug\Castle.Core.dll
+C:\Academy\AdvertBoard\BusinessLayer\bin\Debug\Castle.Windsor.dll
+C:\Academy\AdvertBoard\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Academy\AdvertBoard\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Academy\AdvertBoard\BusinessLayer\bin\Debug\AutoMapper.xml
+C:\Academy\AdvertBoard\BusinessLayer\bin\Debug\Castle.Windsor.xml
+C:\Academy\AdvertBoard\BusinessLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Academy\AdvertBoard\BusinessLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Academy\AdvertBoard\BusinessLayer\obj\Debug\BusinessLogicLayer.pdb

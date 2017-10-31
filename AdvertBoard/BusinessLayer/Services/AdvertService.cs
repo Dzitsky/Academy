@@ -20,10 +20,7 @@ namespace BusinessLogicLayer.Services
         public AdvertDto GetAdvert(int id)
         {
             //AdvertRepository advertRepository = new AdvertRepository();
-
             var advert = _advertRepository.Get(id);
-
-            Mapper.Initialize(cfg => cfg.CreateMap<Advert, AdvertDto>());
             var advertDto = Mapper.Map<Advert, AdvertDto>(advert);
 
             return advertDto;
@@ -32,8 +29,6 @@ namespace BusinessLogicLayer.Services
         public List<AdvertDto> GetAllAdverts()
         {
             //AdvertRepository advertRepository = new AdvertRepository();
-            
-            Mapper.Initialize(cfg => cfg.CreateMap<Advert, AdvertDto>());
             var advertDtos = Mapper.Map<IEnumerable<Advert>, List<AdvertDto>>(_advertRepository.GetAllAdverts());
 
             return advertDtos;
